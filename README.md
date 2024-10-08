@@ -6,4 +6,5 @@ Currently available:
 
 - [Heroicons](https://github.com/Rails-Designer/rails_icons_vault/tree/main/icons/heroicons) • [Official Site](https://heroicons.com/)
 - [Lucide](https://github.com/Rails-Designer/rails_icons_vault/tree/main/icons/lucide/outline) • [Official Site](https://lucide.dev/)
+- [Tabler](https://github.com/Rails-Designer/rails_icons_vault/tree/main/icons/tabler) • [Official Site](https://tabler.io/icons)
 - [Animated](https://github.com/Rails-Designer/rails_icons_vault/tree/main/icons/animated/base) • Custom created SVGS by [Rails Designer](https://railsdesigner.com)

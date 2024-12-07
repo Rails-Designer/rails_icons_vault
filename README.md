@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> [Rails Icons](https://github.com/Rails-Designer/rails_icons) now uses the libraries' respective GitHub repo to sync the icons into your app.
+
 # Rails Icons Vault
 
 This repo includes the icons with first-party support in the [rails_icons gem](https://github.com/Rails-Designer/rails_icons).
